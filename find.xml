@@ -13,6 +13,7 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
+      <mask>*context*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
