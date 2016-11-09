@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="Module 'webapp_entrymatcher'" />
+    <option name="defaultScopeName" value="Module 'webapp_entrymatcher'" />
+    <option name="SEARCH_SCOPE" value="Module 'webapp_entrymatcher'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
